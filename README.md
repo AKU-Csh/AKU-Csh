@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKU-Csh
 - 👀 I’m interested in java
 - 🌱 I’m currently learning basic C/C++ and java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to enter the big factory
 - 📫 How to reach me 984800644@qq.com
 
 <!---
